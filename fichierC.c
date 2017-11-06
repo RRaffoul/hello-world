@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main {
-blanbaoa
+  /* car c'est notre projeeeeet ! */
 }
